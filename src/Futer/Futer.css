@@ -1,0 +1,34 @@
+.divFuter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoFuter {
+    margin-right: 4%;
+}
+.futerSilki {
+    margin-right: 20%;
+}
+.a2 {
+    text-decoration: none;
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+
+margin-right: 15%;
+
+}
+.futerText {
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.5);
+}
